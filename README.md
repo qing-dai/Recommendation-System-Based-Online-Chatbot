@@ -1,8 +1,8 @@
-# Movie Query Bot
+# Recommendation System Based Online Chatbot
 
 ## Overview
 
-The Movie Query Bot is designed to efficiently process natural language prompts related to movies listed in Wikidata. It specializes in handling two types of queries:
+The Recommendation System Based Online Chatbot is designed to efficiently process natural language prompts related to movies listed in Wikidata. It specializes in handling two types of queries:
 
 1. **Closed Queries**: For direct questions like "Who is the director of Star Wars: Episode VI - Return of the Jedi?"
 2. **Open Queries**: For broader requests such as "Recommend movies like Halloween".
